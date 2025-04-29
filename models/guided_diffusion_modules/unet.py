@@ -32,7 +32,7 @@ from .nn import (
 # from module_test.previous.msssa import *
 # from module_test.b17_MSPA import *
 
-from module_test.previous.a41_la_m import *
+from module_test.previous.a41_la import *
 
 # from nn import (
 #     checkpoint,
